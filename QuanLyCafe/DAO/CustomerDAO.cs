@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyCafe.DAO
 {
+    //hello
     internal class CustomerDAO
     {
         private static CustomerDAO instance;
